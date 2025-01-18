@@ -7,7 +7,7 @@
 	branch = xs
 [submodule "nexus-am"]
 	path = nexus-am
-	url = https://github.com/OpenXiangShan/nexus-am
+	url = https://github.com/LeoJhonSong/nexus-am.git
 [submodule "NutShell"]
 	path = NutShell
 	url = https://github.com/OSCPU/NutShell
